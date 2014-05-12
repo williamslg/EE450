@@ -1,0 +1,4 @@
+Taylor
+Skirt1 50
+Shirt1 100
+Watch1 120

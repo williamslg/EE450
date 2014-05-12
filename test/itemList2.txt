@@ -1,0 +1,5 @@
+Julia
+Skirt1 80
+Shirt2 100
+Watch1 100
+Watch2 150

@@ -1,0 +1,9 @@
+Term Project Q&A
+
+Q1: How does the Auction server distinguish between bidders and sellers?
+A1: The users will identify their type in the login massage along with their user name, pass and bank account. The server will record the type of each user and will use it for future.
+login message format: Login#type username password bankaccount
+Q2: When a user is authenticated in the first phase, is there any need for auction server to check its authentication for the other phases?
+A2: You can simply assume that only authenticated users will try to communicate with the auction server in phase 2 and phase 3.
+
+
